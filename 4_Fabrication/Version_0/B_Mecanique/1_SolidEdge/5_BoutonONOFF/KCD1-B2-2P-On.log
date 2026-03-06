@@ -1,0 +1,68 @@
+Conversion STEP vers Solid Edge
+Date: jeudi,juin 23,2022 02 :39
+Fichier source: D:\GitLAB\ALIM_ELO\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\5_BoutonONOFF\KCD1-B2-2P-On.step
+Auteur: 'UNSPECIFIED'
+Organisation: 'UNSPECIFIED'
+Système source: ASCON Math Kernel
+
+Matériel:
+Processeur: Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz
+Système d'exploitation: Windows 7 Professional Service Pack 1
+Mémoire installée: 7.97 GB
+
+Informations sur le logiciel
+Version de Parasolid: 26.0.139
+Version de PSBodyShop: 16.1.150
+Version du convertisseur: 16.42.0
+Version de Solid Edge: 106.00.00.100
+
+Options d'importation STEP
+Activer transfert des attributs: Actif
+Importer filaires Classe II: Actif
+Importer filaires Classe III: Actif
+Importer surface Classe IV: Actif
+Importer solides Classe IV: Actif
+Activer couture : Actif
+Importer et coudre surfaces de type Classe II: Actif
+Convertir solides Classe IV en tant que surfaces relimitées, puis coudre: Désactivé
+Corps solides booléens: Actif
+Créer fonction technologique de base: Actif
+Simplifier géométrie: Actif
+Réparation et couture activées: Désactivé
+Activer la réparation interne: Actif
+Exporter les noms de composant de pièce en tant qu'Unicode : Actif
+
+Etape 1 sur 3 - Conversion vers les types de données Parasolid...
+Fin de la conversion des types de données Parasolid
+Temps nécessaire à la conversion:00 : 00 : 04
+
+Etape 2 sur 3 - Simplifier la géométrie...
+Fin de l'opération de simplification de la géométrie
+Temps nécessaire à la simplification: 00 : 00 : 01
+Couture des surfaces libres...
+
+Etape 3 sur 3 - Création des entités Parasolid...
+Fin de  l'opération de conversion
+Temps total nécessaire à la conversion et au post-traitement:00 : 00 : 06
+
+Assemblage de départ: 0
+Total de pièces:  50
+Assemblages: 0
+Corps solides: 5
+Corps de type surfaces: 45
+
+Traitement corps solide 1 of 50 en cours
+Fichier de pièce SE D:\GitLAB\ALIM_ELO\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\5_BoutonONOFF\KCD1-B2-2P-On.par créé
+Placement de KCD1-B2-2P-On.par:1 en cours
+
+Traitement corps solide 2 of 50 en cours
+Traitement corps solide 3 of 50 en cours
+Traitement corps solide 4 of 50 en cours
+Traitement corps solide 5 of 50 en cours
+Traitement de 45 corps de type surfaces en cours
+Fichier de pièce SE D:\GitLAB\ALIM_ELO\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\5_BoutonONOFF\.par créé
+Placement de .par:1 en cours
+
+
+
+

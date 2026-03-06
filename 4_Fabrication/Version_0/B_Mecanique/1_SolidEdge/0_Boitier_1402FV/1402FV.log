@@ -1,0 +1,138 @@
+Conversion STEP vers Solid Edge
+Date: mardi,janvier 12,2021 10 :46
+Fichier source: \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\1402FV.stp
+Auteur: 'mbeerman'
+Organisation: '
+Système source: Autodesk Inventor 2020
+
+Matériel:
+Processeur: Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz
+Système d'exploitation: Windows 7 Professional Service Pack 1
+Mémoire installée: 7.97 GB
+
+Informations sur le logiciel
+Version de Parasolid: 26.0.139
+Version de PSBodyShop: 16.1.150
+Version du convertisseur: 16.42.0
+Version de Solid Edge: 106.00.00.100
+
+Options d'importation STEP
+Activer transfert des attributs: Actif
+Importer filaires Classe II: Actif
+Importer filaires Classe III: Actif
+Importer surface Classe IV: Actif
+Importer solides Classe IV: Actif
+Activer couture : Actif
+Importer et coudre surfaces de type Classe II: Actif
+Convertir solides Classe IV en tant que surfaces relimitées, puis coudre: Désactivé
+Corps solides booléens: Actif
+Créer fonction technologique de base: Actif
+Simplifier géométrie: Actif
+Réparation et couture activées: Désactivé
+Activer la réparation interne: Actif
+Exporter les noms de composant de pièce en tant qu'Unicode : Actif
+
+Etape 1 sur 3 - Conversion vers les types de données Parasolid...
+Fin de la conversion des types de données Parasolid
+Temps nécessaire à la conversion:00 : 00 : 01
+
+Etape 2 sur 3 - Simplifier la géométrie...
+Fin de l'opération de simplification de la géométrie
+Temps nécessaire à la simplification: 00 : 00 : 00
+Couture des surfaces libres...
+
+Etape 3 sur 3 - Création des entités Parasolid...
+Fin de  l'opération de conversion
+Temps total nécessaire à la conversion et au post-traitement:00 : 00 : 02
+
+raitement corps solide 1 of 22 en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\1402D - Top Cover.par créé
+Placement de 1402D - Top Cover.par:1 en cours
+
+Traitement corps solide 2 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\1402D - Top Cover.par en cours de réutilisation
+Placement de 1402D - Top Cover.par:2 en cours
+
+Traitement corps solide 3 of 22 en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\1402D - End Plate.par créé
+Placement de 1402D - End Plate.par:1 en cours
+
+Traitement corps solide 4 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\1402D - End Plate.par en cours de réutilisation
+Placement de 1402D - End Plate.par:2 en cours
+
+Traitement corps solide 5 of 22 en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\1402D - Side Extrusion.par créé
+Placement de 1402D - Side Extrusion.par:1 en cours
+
+Traitement corps solide 6 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\1402D - Side Extrusion.par en cours de réutilisation
+Placement de 1402D - Side Extrusion.par:2 en cours
+
+Traitement corps solide 7 of 22 en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par créé
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:1 en cours
+
+Traitement corps solide 8 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par en cours de réutilisation
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:2 en cours
+
+Traitement corps solide 9 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par en cours de réutilisation
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:3 en cours
+
+Traitement corps solide 10 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par en cours de réutilisation
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:4 en cours
+
+Traitement corps solide 11 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par en cours de réutilisation
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:5 en cours
+
+Traitement corps solide 12 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par en cours de réutilisation
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:6 en cours
+
+Traitement corps solide 13 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par en cours de réutilisation
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:7 en cours
+
+Traitement corps solide 14 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC (screw #4X 1_2'' PN, Plastite).par en cours de réutilisation
+Placement de SC (screw #4X 1_2'' PN, Plastite).par:8 en cours
+
+Traitement corps solide 15 of 22 en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par créé
+Placement de SC541 (screw #10-32X 1_2'' PN).par:1 en cours
+
+Traitement corps solide 16 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par en cours de réutilisation
+Placement de SC541 (screw #10-32X 1_2'' PN).par:2 en cours
+
+Traitement corps solide 17 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par en cours de réutilisation
+Placement de SC541 (screw #10-32X 1_2'' PN).par:3 en cours
+
+Traitement corps solide 18 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par en cours de réutilisation
+Placement de SC541 (screw #10-32X 1_2'' PN).par:4 en cours
+
+Traitement corps solide 19 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par en cours de réutilisation
+Placement de SC541 (screw #10-32X 1_2'' PN).par:5 en cours
+
+Traitement corps solide 20 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par en cours de réutilisation
+Placement de SC541 (screw #10-32X 1_2'' PN).par:6 en cours
+
+Traitement corps solide 21 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par en cours de réutilisation
+Placement de SC541 (screw #10-32X 1_2'' PN).par:7 en cours
+
+Traitement corps solide 22 of 22 en cours
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\0_Boitier_1402FV\SC541 (screw #10-32X 1_2'' PN).par en cours de réutilisation
+Placement de SC541 (screw #10-32X 1_2'' PN).par:8 en cours
+
+
+
+

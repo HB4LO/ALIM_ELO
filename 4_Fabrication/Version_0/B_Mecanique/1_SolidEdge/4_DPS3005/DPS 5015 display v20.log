@@ -1,0 +1,97 @@
+Conversion STEP vers Solid Edge
+Date: mercredi,janvier 06,2021 02 :39
+Fichier source: \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\DPS 5015 display v20.step
+Auteur: 'thorkilpeder@gmail.com'
+Organisation: '
+Système source: Autodesk Translation Framework v6.5.0.72
+
+Matériel:
+Processeur: Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz
+Système d'exploitation: Windows 7 Professional Service Pack 1
+Mémoire installée: 7.97 GB
+
+Informations sur le logiciel
+Version de Parasolid: 26.0.139
+Version de PSBodyShop: 16.1.150
+Version du convertisseur: 16.42.0
+Version de Solid Edge: 106.00.00.100
+
+Options d'importation STEP
+Activer transfert des attributs: Actif
+Importer filaires Classe II: Actif
+Importer filaires Classe III: Actif
+Importer surface Classe IV: Actif
+Importer solides Classe IV: Actif
+Activer couture : Actif
+Importer et coudre surfaces de type Classe II: Actif
+Convertir solides Classe IV en tant que surfaces relimitées, puis coudre: Désactivé
+Corps solides booléens: Actif
+Créer fonction technologique de base: Actif
+Simplifier géométrie: Actif
+Réparation et couture activées: Désactivé
+Activer la réparation interne: Actif
+Exporter les noms de composant de pièce en tant qu'Unicode : Actif
+
+Etape 1 sur 3 - Conversion vers les types de données Parasolid...
+Fin de la conversion des types de données Parasolid
+Temps nécessaire à la conversion:00 : 00 : 01
+
+Etape 2 sur 3 - Simplifier la géométrie...
+Fin de l'opération de simplification de la géométrie
+Temps nécessaire à la simplification: 00 : 00 : 00
+Couture des surfaces libres...
+
+Etape 3 sur 3 - Création des entités Parasolid...
+Fin de  l'opération de conversion
+Temps total nécessaire à la conversion et au post-traitement:00 : 00 : 03
+
+Assemblage de départ: 0
+Total de pièces:  3
+Assemblages: 2
+Corps solides: 1
+Corps de type surfaces: 0
+
+Assemblage de départ: 1
+Total de pièces:  2
+Assemblages: 0
+Corps solides: 2
+Corps de type surfaces: 0
+
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component4.par créé
+Placement de Component4.par:1 en cours
+
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component5.par créé
+Placement de Component5.par:1 en cours
+
+Assemblage d'arrivée: 1
+
+Fichier d'assemblage SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component1.asm créé
+Placement de Component1.asm:1 en cours
+
+Assemblage de départ: 2
+Total de pièces:  3
+Assemblages: 0
+Corps solides: 3
+Corps de type surfaces: 0
+
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component6.par créé
+Placement de Component6.par:1 en cours
+
+Fichier \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component6.par en cours de réutilisation
+Placement de Component6.par:2 en cours
+
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component2.par créé
+Placement de Component2.par:1 en cours
+
+Assemblage d'arrivée: 2
+
+Fichier d'assemblage SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component2.asm créé
+Placement de Component2.asm:1 en cours
+
+Traitement corps solide 1 of 3 en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\4_DPS3005\Component3.par créé
+Placement de Component3.par:1 en cours
+
+
+
+

@@ -1,0 +1,77 @@
+Conversion STEP vers Solid Edge
+Date: mercredi,janvier 06,2021 02 :37
+Fichier source: \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\3_Alim12V_5V\RS-25.stp
+Auteur: '
+Organisation: '
+Système source: PTC Creo Elements/Direct Modeling 19.0  09-May-2014 (C) Parametric Technology GmbH
+
+Matériel:
+Processeur: Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz
+Système d'exploitation: Windows 7 Professional Service Pack 1
+Mémoire installée: 7.97 GB
+
+Informations sur le logiciel
+Version de Parasolid: 26.0.139
+Version de PSBodyShop: 16.1.150
+Version du convertisseur: 16.42.0
+Version de Solid Edge: 106.00.00.100
+
+Options d'importation STEP
+Activer transfert des attributs: Actif
+Importer filaires Classe II: Actif
+Importer filaires Classe III: Actif
+Importer surface Classe IV: Actif
+Importer solides Classe IV: Actif
+Activer couture : Actif
+Importer et coudre surfaces de type Classe II: Actif
+Convertir solides Classe IV en tant que surfaces relimitées, puis coudre: Désactivé
+Corps solides booléens: Actif
+Créer fonction technologique de base: Actif
+Simplifier géométrie: Actif
+Réparation et couture activées: Désactivé
+Activer la réparation interne: Actif
+Exporter les noms de composant de pièce en tant qu'Unicode : Actif
+
+Etape 1 sur 3 - Conversion vers les types de données Parasolid...
+Fin de la conversion des types de données Parasolid
+Temps nécessaire à la conversion:00 : 00 : 03
+
+Etape 2 sur 3 - Simplifier la géométrie...
+Fin de l'opération de simplification de la géométrie
+Temps nécessaire à la simplification: 00 : 00 : 00
+Couture des surfaces libres...
+
+Etape 3 sur 3 - Création des entités Parasolid...
+Fin de  l'opération de conversion
+Temps total nécessaire à la conversion et au post-traitement:00 : 00 : 03
+
+Assemblage de départ: 0
+Total de pièces:  1
+Assemblages: 1
+Corps solides: 0
+Corps de type surfaces: 0
+
+Assemblage de départ: 1
+Total de pièces:  148
+Assemblages: 0
+Corps solides: 0
+Corps de type surfaces: 148
+
+Traitement de 3 corps de type surfaces en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\3_Alim12V_5V\P2.PRT.par créé
+Placement de P2.PRT.par:1 en cours
+
+Assemblage d'arrivée: 1
+
+Traitement de 145 corps de type surfaces en cours
+Fichier de pièce SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\3_Alim12V_5V\PCB.PRT.par créé
+Placement de PCB.PRT.par:1 en cours
+
+Assemblage d'arrivée: 1
+
+Fichier d'assemblage SE \\FSERVEUR\FPerrin\GitLAB\alim_elo_dps3005\4_Fabrication\Version_0\B_Mecanique\1_SolidEdge\3_Alim12V_5V\RS-25_1.ASM.asm créé
+Placement de RS-25_1.ASM.asm:1 en cours
+
+
+
+
